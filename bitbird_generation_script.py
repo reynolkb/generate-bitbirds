@@ -1,3 +1,5 @@
+# https://www.youtube.com/watch?v=vTxjLLHncMo
+
 # Built with python 3, dependencies installed with pip 
 # library to generate images - Pillow 
 # https://pillow.readthedocs.io/en/stable/installation.html
@@ -26,7 +28,7 @@ dimensions = 480, 480
 # e.g. 
 # for x in range(0-200) 
 # would generate 201 birds numbered 0-200
-for x in range(0, 50):
+for x in range(0, 5):
 
     # using ETH block number as starting random number seed
     b=11981207
